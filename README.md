@@ -16,4 +16,4 @@ using (StreamWriter file = new StreamWriter("C:\\temp.xlsx"))
 }  
 ```
 
-P.S. Please solved the problems of WebBrowser by yourself.  
+P.S. Solved problems of WebBrowser, changed to XmlDocument.  
